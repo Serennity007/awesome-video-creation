@@ -50,6 +50,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- **OrkasVideoStudio Workflow** - Source-installable agent production workflow with editable timelines, draft review, and delivery checks
+
 ### Planned
 - Video examples and case studies
 - Tool comparison matrices

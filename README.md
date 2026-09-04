@@ -2,13 +2,13 @@
 
 # 🎬 Awesome Video Creation
 
-> **From idea to published video in hours, not weeks. 14 AI skills covering the complete workflow.**
+> **From idea to published video in hours, not weeks. 15 AI skills covering the complete workflow.**
 
 A curated collection of AI-powered skills for the complete video creation workflow — from creative planning to multi-platform publishing. Each skill is a complete guide with workflows, tools, templates, and proven patterns.
 
 ## Overview
 
-Creating great videos involves much more than just hitting record. This repository provides **14 tried-and-true skills** organized into **5 categories** that cover every stage of the video creation process.
+Creating great videos involves much more than just hitting record. This repository provides **15 tried-and-true skills** organized into **5 categories** that cover every stage of the video creation process.
 
 Whether you're a solo creator, a small team, or part of a larger organization, these skills will help you:
 
@@ -41,6 +41,7 @@ Whether you're a solo creator, a small team, or part of a larger organization, t
 | Skill | Description |
 |-------|-------------|
 | [Video Editing](skills/post-production/video-editing.md) | Edit videos efficiently with professional techniques and AI-assisted workflows |
+| [OrkasVideoStudio Workflow](skills/post-production/orkas-videostudio-workflow.md) | Run an agent-driven, editable video workflow from plan through verified delivery |
 | [Motion Graphics](skills/post-production/motion-graphics.md) | Add professional motion graphics and animations to your videos |
 | [Thumbnail Creation](skills/post-production/thumbnail-creation.md) | Design click-worthy thumbnails that maximize video CTR |
 
