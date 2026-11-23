@@ -2,13 +2,13 @@
 
 # 🎬 Awesome Video Creation
 
-> **Von der Idee zum veröffentlichten Video in Stunden, nicht Wochen. 14 KI-Skills für den kompletten Workflow.**
+> **Von der Idee zum veröffentlichten Video in Stunden, nicht Wochen. 15 KI-Skills für den kompletten Workflow.**
 
 Eine kuratierte Sammlung KI-gestützter Skills für den gesamten Videoerstellungs-Workflow — von der kreativen Planung bis zur Multiplattform-Veröffentlichung. Jeder Skill ist eine vollständige Anleitung mit Workflows, Tools, Vorlagen und bewährten Mustern.
 
 ## Überblick
 
-Großartige Videos zu erstellen erfordert weit mehr als nur auf Aufnahme zu drücken. Dieses Repository bietet **14 bewährte Skills** in **5 Kategorien**, die jeden Schritt des Videoerstellungsprozesses abdecken.
+Großartige Videos zu erstellen erfordert weit mehr als nur auf Aufnahme zu drücken. Dieses Repository bietet **15 bewährte Skills** in **5 Kategorien**, die jeden Schritt des Videoerstellungsprozesses abdecken.
 
 Ob Solo-Creator, kleines Team oder Teil einer größeren Organisation — diese Skills helfen Ihnen:
 
@@ -41,6 +41,7 @@ Ob Solo-Creator, kleines Team oder Teil einer größeren Organisation — diese 
 | Skill | Beschreibung |
 |-------|-------------|
 | [Videoschnitt](skills/post-production/video-editing.md) | Videos effizient mit professionellen Techniken und KI-gestützten Workflows schneiden |
+| [OrkasVideoStudio Workflow](skills/post-production/orkas-videostudio-workflow.md) | Einen agentengesteuerten, editierbaren Videoworkflow vom Plan bis zur verifizierten Lieferung ausführen |
 | [Motion Graphics](skills/post-production/motion-graphics.md) | Professionelle Motion Graphics und Animationen zu Videos hinzufügen |
 | [Thumbnail-Erstellung](skills/post-production/thumbnail-creation.md) | Klickstarke Thumbnails entwerfen, die die Video-CTR maximieren |
 

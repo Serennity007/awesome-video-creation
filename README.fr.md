@@ -2,13 +2,13 @@
 
 # 🎬 Awesome Video Creation
 
-> **De l'idée à la vidéo publiée en quelques heures, pas en semaines. 14 compétences IA couvrant le workflow complet.**
+> **De l'idée à la vidéo publiée en quelques heures, pas en semaines. 15 compétences IA couvrant le workflow complet.**
 
 Une collection curatée de compétences IA pour le workflow complet de création vidéo — de la planification créative à la publication multiplateforme. Chaque compétence est un guide complet avec des workflows, des outils, des modèles et des éprouvés patterns.
 
 ## Aperçu
 
-Créer de superbes vidéos implique bien plus que simplement appuyer sur le bouton d'enregistrement. Ce dépôt fournit **14 compétences éprouvées** organisées en **5 catégories** qui couvrent chaque étape du processus de création vidéo.
+Créer de superbes vidéos implique bien plus que simplement appuyer sur le bouton d'enregistrement. Ce dépôt fournit **15 compétences éprouvées** organisées en **5 catégories** qui couvrent chaque étape du processus de création vidéo.
 
 Que vous soyez un créateur solo, une petite équipe ou une organisation plus importante, ces compétences vous aideront à :
 
@@ -41,6 +41,7 @@ Que vous soyez un créateur solo, une petite équipe ou une organisation plus im
 | Compétence | Description |
 |------------|-------------|
 | [Montage vidéo](skills/post-production/video-editing.md) | Monter les vidéos efficacement avec des techniques pro et des workflows IA |
+| [OrkasVideoStudio Workflow](skills/post-production/orkas-videostudio-workflow.md) | Exécuter un workflow vidéo éditable piloté par un agent, du plan à la livraison vérifiée |
 | [Motion Graphics](skills/post-production/motion-graphics.md) | Ajouter des animations et motion graphics professionnels à vos vidéos |
 | [Création de miniature](skills/post-production/thumbnail-creation.md) | Concevoir des miniatures irrésistibles qui maximisent le CTR vidéo |
 

@@ -2,13 +2,13 @@
 
 # 🎬 Awesome Video Creation
 
-> **De la idea al video publicado en horas, no en semanas. 14 habilidades de IA que cubren el flujo de trabajo completo.**
+> **De la idea al video publicado en horas, no en semanas. 15 habilidades de IA que cubren el flujo de trabajo completo.**
 
 Una colección curada de habilidades impulsadas por IA para el flujo de trabajo completo de creación de video — desde la planificación creativa hasta la publicación multiplataforma. Cada habilidad es una guía completa con flujos de trabajo, herramientas, plantillas y patrones probados.
 
 ## Resumen
 
-Crear grandes videos implica mucho más que simplemente presionar el botón de grabación. Este repositorio proporciona **14 habilidades comprobadas** organizadas en **5 categorías** que cubren cada etapa del proceso de creación de video.
+Crear grandes videos implica mucho más que simplemente presionar el botón de grabación. Este repositorio proporciona **15 habilidades comprobadas** organizadas en **5 categorías** que cubren cada etapa del proceso de creación de video.
 
 Ya seas un creador solitario, un pequeño equipo o parte de una organización más grande, estas habilidades te ayudarán a:
 
@@ -41,6 +41,7 @@ Ya seas un creador solitario, un pequeño equipo o parte de una organización m�
 | Habilidad | Descripción |
 |-----------|-------------|
 | [Edición de video](skills/post-production/video-editing.md) | Edita videos eficientemente con técnicas profesionales y flujos de trabajo asistidos por IA |
+| [OrkasVideoStudio Workflow](skills/post-production/orkas-videostudio-workflow.md) | Ejecuta un flujo de trabajo de vídeo editable y dirigido por agentes, del plan a la entrega verificada |
 | [Motion Graphics](skills/post-production/motion-graphics.md) | Agrega motion graphics y animaciones profesionales a tus videos |
 | [Creación de miniatura](skills/post-production/thumbnail-creation.md) | Diseña miniaturas irresistibles que maximicen el CTR del video |
 
