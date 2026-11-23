@@ -39,6 +39,7 @@ Thumbnail layout templates:
 
 LAYOUT A: SPLIT SCREEN
 ```
+
 ┌──────────────┬──────────────┐
 │              │              │
 │   [Image/    │  [Image/     │
@@ -46,11 +47,13 @@ LAYOUT A: SPLIT SCREEN
 │              │              │
 │              │  [TEXT]      │
 └──────────────┴──────────────┘
-```
+
+```text
 Best for: Before/after, comparisons, reveals
 
 LAYOUT B: FULL BLEED WITH TEXT
 ```
+
 ┌──────────────────────────┐
 │                          │
 │    [Full background      │
@@ -59,11 +62,13 @@ LAYOUT B: FULL BLEED WITH TEXT
 │    [LARGE TEXT]           │
 │    [subtitle]            │
 └──────────────────────────┘
-```
+
+```text
 Best for: Tutorials, storytelling, vlogs
 
 LAYOUT C: SUBJECT + ELEMENTS
 ```
+
 ┌──────────────────────────┐
 │ [Emoji/  [Subject/       │
 │  Icon]    Face/Person]   │
@@ -71,7 +76,8 @@ LAYOUT C: SUBJECT + ELEMENTS
 │ [Arrow →] [TEXT]         │
 │                          │
 └──────────────────────────┘
-```
+
+```text
 Best for: How-to, lists, reactions
 ```
 

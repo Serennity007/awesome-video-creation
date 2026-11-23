@@ -74,7 +74,7 @@ Seja você um criador solo, uma pequena equipe ou parte de uma organização mai
 
 Se você é iniciante em criação de vídeos, recomendamos esta ordem:
 
-```
+```text
 Estratégia de Conteúdo → Roteiro → Storyboarding →
 Talking Head/Gravação de Tela → Edição de Vídeo →
 Criação de Thumbnail → Otimização YouTube →
@@ -85,7 +85,7 @@ Estratégia de Curta Duração → Publicação Multiplataforma
 
 Cada habilidade segue um formato consistente:
 
-```
+```text
 ├── Quando Usar        # Gatilhos claros para quando esta habilidade se aplica
 ├── Fluxo de Trabalho  # Processo passo a passo (3-5 etapas)
 ├── Ferramentas        # Ferramentas recomendadas com preços

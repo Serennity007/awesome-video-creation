@@ -74,7 +74,7 @@ Que vous soyez un créateur solo, une petite équipe ou une organisation plus im
 
 Si vous débutez dans la création vidéo, nous recommandons cet ordre :
 
-```
+```text
 Stratégie de contenu → Rédaction de script → Storyboarding →
 Talking Head/Capture d'écran → Montage vidéo →
 Création de miniature → Optimisation YouTube →
@@ -85,7 +85,7 @@ Stratégie Short-Form → Publication multiplateforme
 
 Chaque compétence suit un format cohérent :
 
-```
+```text
 ├── Quand l'utiliser    # Déclencheurs clairs pour l'application
 ├── Workflow            # Processus pas à pas (3-5 étapes)
 ├── Outils              # Outils recommandés avec tarification

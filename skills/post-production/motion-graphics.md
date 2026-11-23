@@ -74,6 +74,7 @@ Build reusable motion graphic templates:
 
 LOWER THIRD TEMPLATE:
 ```
+
 Composition: 1920x1080, 30fps, 5 seconds
 Layers:
 ├── Background bar (brand color, 70% opacity)
@@ -92,10 +93,12 @@ Animation:
 
 Expression for smooth easing:
 easeOut(t, 0, 0.5, 0, 1)
-```
+
+```text
 
 TITLE CARD TEMPLATE:
 ```
+
 Composition: 1920x1080, 30fps, 4 seconds
 Layers:
 ├── Background (gradient or video)
@@ -110,7 +113,8 @@ Animation:
 0.8s - Subtitle fades in
 1.0s - Decorative elements animate in
 3.0s - Everything scales and fades out
-```
+
+```text
 ```
 
 ### Step 4: AI-Assisted Motion Graphics

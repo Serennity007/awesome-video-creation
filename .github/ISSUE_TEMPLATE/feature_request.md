@@ -39,6 +39,7 @@ Why is this feature important? What problem does it solve?
 ## Detailed Description
 
 Describe the feature in detail. For new skills, include:
+
 - When to use
 - Key workflow steps
 - Recommended tools

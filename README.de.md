@@ -74,7 +74,7 @@ Ob Solo-Creator, kleines Team oder Teil einer größeren Organisation — diese 
 
 Wenn Sie neu in der Videoerstellung sind, empfehlen wir diese Reihenfolge:
 
-```
+```text
 Content-Strategie → Drehbuch → Storyboarding →
 Talking Head/Bildschirmaufnahme → Videoschnitt →
 Thumbnail-Erstellung → YouTube-Optimierung →
@@ -85,7 +85,7 @@ Kurzform-Strategie → Multiplattform-Veröffentlichung
 
 Jeder Skill folgt einem einheitlichen Format:
 
-```
+```text
 ├── Wann verwenden        # Klare Auslöser für die Anwendung
 ├── Workflow              # Schritt-für-Schritt-Prozess (3-5 Schritte)
 ├── Tools                 # Empfohlene Tools mit Preisen

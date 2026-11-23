@@ -16,7 +16,7 @@ We take security seriously. If you discover a security vulnerability, please rep
 
 Instead, please report security vulnerabilities by emailing:
 
-**security@example.com** (Replace with actual email)
+**<security@example.com>** (Replace with actual email)
 
 ### What to Include
 
@@ -78,6 +78,6 @@ When following skills in this repository:
 
 ## Contact
 
-For security concerns, contact: **security@example.com** (Replace with actual email)
+For security concerns, contact: **<security@example.com>** (Replace with actual email)
 
 For general questions, open a GitHub issue.

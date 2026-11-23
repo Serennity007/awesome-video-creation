@@ -100,7 +100,7 @@ Each skill should follow this structure:
 
 Use clear, descriptive commit messages:
 
-```
+```text
 Add: New skill for [topic]
 Fix: Broken link in [skill name]
 Update: Tool pricing for [tool name]

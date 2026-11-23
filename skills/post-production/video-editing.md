@@ -20,6 +20,7 @@ Organize footage before editing:
 
 PROJECT STRUCTURE:
 ```
+
 Project_Name/
 ├── 01_RAW/
 │   ├── Camera_A/
@@ -39,7 +40,8 @@ Project_Name/
 │   └── [Final renders]
 └── 06_ARCHIVE/
     └── [Old versions]
-```
+
+```text
 
 NAMING CONVENTION:
 [YYYY-MM-DD]_[ProjectName]_[ShotType]_[TakeNumber]

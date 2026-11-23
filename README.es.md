@@ -74,7 +74,7 @@ Ya seas un creador solitario, un pequeño equipo o parte de una organización m�
 
 Si eres nuevo en la creación de video, recomendamos este orden:
 
-```
+```text
 Estrategia de contenido → Escritura de guion → Storyboarding →
 Talking Head/Grabación de pantalla → Edición de video →
 Creación de miniatura → Optimización YouTube →
@@ -85,7 +85,7 @@ Estrategia de formato corto → Publicación multiplataforma
 
 Cada habilidad sigue un formato consistente:
 
-```
+```text
 ├── Cuándo usarla         # Desencadenantes claros para la aplicación
 ├── Flujo de trabajo      # Proceso paso a paso (3-5 pasos)
 ├── Herramientas          # Herramientas recomendadas con precios

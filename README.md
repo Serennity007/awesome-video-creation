@@ -74,7 +74,7 @@ Whether you're a solo creator, a small team, or part of a larger organization, t
 
 If you're new to video creation, we recommend this order:
 
-```
+```text
 Content Strategy → Script Writing → Storyboarding →
 Talking Head/Screen Recording → Video Editing →
 Thumbnail Creation → YouTube Optimization →
@@ -85,7 +85,7 @@ Short-Form Strategy → Multi-Platform Publishing
 
 Each skill follows a consistent format:
 
-```
+```text
 ├── When to Use        # Clear triggers for when this skill applies
 ├── Workflow           # Step-by-step process (3-5 steps)
 ├── Tools              # Recommended tools with pricing
