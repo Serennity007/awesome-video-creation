@@ -42,7 +42,7 @@
 |-------|-------------|
 | [تحرير الفيديو](skills/post-production/video-editing.md) | تحرير الفيديوهات بكفاءة باستخدام تقنيات احترافية وسير عمل بمساعدة الذكاء الاصطناعي |
 | [OrkasVideoStudio Workflow](skills/post-production/orkas-videostudio-workflow.md) | تشغيل سير عمل فيديو قابل للتعديل بقيادة الوكيل من الخطة إلى التسليم الموثّق |
-| [الرسوم المتحركة](skills/post-production/motion-graphics.md) | إضافة رسوم متحركة و)animated احترافية إلى فيديوهاتك |
+| [الرسوم المتحركة](skills/post-production/motion-graphics.md) | إضافة رسوم متحركة احترافية إلى فيديوهاتك |
 | [إنشاء الصورة المصغرة](skills/post-production/thumbnail-creation.md) | تصميم صور مصغرة جذابة تُعظم معدل النقر إلى الظهور |
 
 ### 🎵 معالجة الصوت
