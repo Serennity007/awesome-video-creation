@@ -1,5 +1,11 @@
 [English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md) | [Français](README.fr.md) | [Español](README.es.md) | [العربية](README.ar.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Русский](README.ru.md) | [Deutsch](README.de.md)
 
+<div align="center">
+
+<img src=".banner.svg" width="100%" alt="banner">
+
+</div>
+
 # 🎬 Awesome Video Creation
 
 > **아이디어에서 게시된 영상까지 몇 시간, 몇 주가 아닌. 전체 워크플로를 다루는 15가지 AI 스킬.**

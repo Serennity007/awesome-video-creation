@@ -1,5 +1,11 @@
 [English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md) | [Français](README.fr.md) | [Español](README.es.md) | [العربية](README.ar.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Русский](README.ru.md) | [Deutsch](README.de.md)
 
+<div align="center">
+
+<img src=".banner.svg" width="100%" alt="banner">
+
+</div>
+
 # 🎬 Awesome Video Creation
 
 > **アイデアから公開動画まで数時間で。完全なワークフローをカバーする 15 の AI スキル。**

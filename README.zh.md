@@ -1,5 +1,11 @@
 [English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md) | [Français](README.fr.md) | [Español](README.es.md) | [العربية](README.ar.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Русский](README.ru.md) | [Deutsch](README.de.md)
 
+<div align="center">
+
+<img src=".banner.svg" width="100%" alt="banner">
+
+</div>
+
 # 🎬 精选视频创作指南
 
 > **从创意到发布的视频，只需数小时而非数周。15项AI技能覆盖完整工作流程。**
